@@ -35,6 +35,6 @@
 |5|[멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%A4%80%EB%B9%84%EC%9A%B4%EB%8F%99%20PART2.%20%EC%95%BD%EC%A0%90%20%EC%B2%B4%ED%81%AC/05_%EB%A9%80%ED%8B%B0%ED%83%AD%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.py)|🥇골드1|
 |6|[부분합](https://www.acmicpc.net/problem/1806)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%A4%80%EB%B9%84%EC%9A%B4%EB%8F%99%20PART2.%20%EC%95%BD%EC%A0%90%20%EC%B2%B4%ED%81%AC/06_%EB%B6%80%EB%B6%84%ED%95%A9.py)|🥇골드4|
 |7|[최소 비용 구하기](https://www.acmicpc.net/problem/1916)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%A4%80%EB%B9%84%EC%9A%B4%EB%8F%99%20PART2.%20%EC%95%BD%EC%A0%90%20%EC%B2%B4%ED%81%AC/07_%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%EA%B5%AC%ED%95%98%EA%B8%B0.py)|🥇골드5|
-|8|-|-|-|
+|8|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|[풀이1](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%A4%80%EB%B9%84%EC%9A%B4%EB%8F%99%20PART2.%20%EC%95%BD%EC%A0%90%20%EC%B2%B4%ED%81%AC/08_%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC(Kruskal).py)<br>[풀이2](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%A4%80%EB%B9%84%EC%9A%B4%EB%8F%99%20PART2.%20%EC%95%BD%EC%A0%90%20%EC%B2%B4%ED%81%AC/08_%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC(Prim).py)|🥇골드4|
 |9|-|-|-|
-|10|-|-|-|
+|10|[줄 세우기](https://www.acmicpc.net/problem/2252)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%A4%80%EB%B9%84%EC%9A%B4%EB%8F%99%20PART2.%20%EC%95%BD%EC%A0%90%20%EC%B2%B4%ED%81%AC/10_%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0.py)|🥇골드2|
