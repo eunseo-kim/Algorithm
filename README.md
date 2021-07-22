@@ -1,5 +1,7 @@
+
 # 📁BOJ-Algorithm
-- 백준 알고리즘 도장깨기👊🏻
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunseo2000v)](https://solved.ac/eunseo2000v/)
+
 
 ## 🛠Language
 
