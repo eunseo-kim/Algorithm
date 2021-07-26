@@ -40,3 +40,15 @@
 |8|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|[풀이1](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%A4%80%EB%B9%84%EC%9A%B4%EB%8F%99%20PART2.%20%EC%95%BD%EC%A0%90%20%EC%B2%B4%ED%81%AC/08_%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC(Kruskal).py)<br>[풀이2](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%A4%80%EB%B9%84%EC%9A%B4%EB%8F%99%20PART2.%20%EC%95%BD%EC%A0%90%20%EC%B2%B4%ED%81%AC/08_%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC(Prim).py)|🥇골드4|
 |9|-|-|-|
 |10|[줄 세우기](https://www.acmicpc.net/problem/2252)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%A4%80%EB%B9%84%EC%9A%B4%EB%8F%99%20PART2.%20%EC%95%BD%EC%A0%90%20%EC%B2%B4%ED%81%AC/10_%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0.py)|🥇골드2|
+
+
+### 📌알고리즘 다지기 기초 백준 문제 추천
+|번호|제목|코드|티어|
+|------|---|---|---|
+|1|[수들의 합](https://www.acmicpc.net/problem/1789)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%8B%A4%EC%A7%80%EA%B8%B0%20%EA%B8%B0%EC%B4%88%20%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C/01_%EC%88%98%EB%93%A4%EC%9D%98%ED%95%A9.py)|🥈실버5|
+|2|[사탕 게임](https://www.acmicpc.net/problem/3085)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%8B%A4%EC%A7%80%EA%B8%B0%20%EA%B8%B0%EC%B4%88%20%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C/02_%EC%82%AC%ED%83%95%EA%B2%8C%EC%9E%84.py)|🥈실버4|
+|3|[동전 1](https://www.acmicpc.net/problem/2293)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%8B%A4%EC%A7%80%EA%B8%B0%20%EA%B8%B0%EC%B4%88%20%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C/03_%EB%8F%99%EC%A0%841.py)|🥈실버1|
+|4|[동전 2](https://www.acmicpc.net/problem/2293)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%8B%A4%EC%A7%80%EA%B8%B0%20%EA%B8%B0%EC%B4%88%20%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C/04_%EB%8F%99%EC%A0%842.py)|🥈실버1|
+|5|[단지번호 붙이기](https://www.acmicpc.net/problem/2667)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%8B%A4%EC%A7%80%EA%B8%B0%20%EA%B8%B0%EC%B4%88%20%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C/05_%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.py)|🥈실버1|
+|6|[감소하는 수](https://www.acmicpc.net/problem/1038)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%8B%A4%EC%A7%80%EA%B8%B0%20%EA%B8%B0%EC%B4%88%20%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C/06_%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94%EC%88%98.py)|🥇골드5|
+
