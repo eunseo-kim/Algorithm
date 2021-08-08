@@ -53,3 +53,10 @@
 |6|[감소하는 수](https://www.acmicpc.net/problem/1038)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%8B%A4%EC%A7%80%EA%B8%B0%20%EA%B8%B0%EC%B4%88%20%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C/06_%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94%EC%88%98.py)|🥇골드5|
 |7|[가르침](https://www.acmicpc.net/problem/1062)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%8B%A4%EC%A7%80%EA%B8%B0%20%EA%B8%B0%EC%B4%88%20%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C/07_%EA%B0%80%EB%A5%B4%EC%B9%A8.py)|🥇골드4|
 |8|[파이프 옮기기 1](https://www.acmicpc.net/problem/17070)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%8B%A4%EC%A7%80%EA%B8%B0%20%EA%B8%B0%EC%B4%88%20%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C/08_%ED%8C%8C%EC%9D%B4%ED%94%84%20%EC%98%AE%EA%B8%B0%EA%B8%B0%201.py)<br>[추가해설](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%8B%A4%EC%A7%80%EA%B8%B0%20%EA%B8%B0%EC%B4%88%20%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C/08_%ED%8C%8C%EC%9D%B4%ED%94%84%20%EC%98%AE%EA%B8%B0%EA%B8%B0%201%20%ED%92%80%EC%9D%B4%EB%B0%A9%EB%B2%95.md)|🥇골드5|
+
+### 📌DP 문제풀이 강훈련 백준 문제 추천
+|번호|제목|코드|티어|
+|------|---|---|---|
+|1|[퇴사 2](https://www.acmicpc.net/problem/15486)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/DP%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4%20%EA%B0%95%ED%9B%88%EB%A0%A8%20%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C/01_%ED%87%B4%EC%82%AC2.py)|🥈실버1|
+|2|[점프](https://www.acmicpc.net/problem/1890)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/DP%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4%20%EA%B0%95%ED%9B%88%EB%A0%A8%20%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C/02_%EC%A0%90%ED%94%84.py)|🥈실버2|
+|3|[1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)||🥈실버1|
