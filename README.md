@@ -54,6 +54,21 @@
 |7|[가르침](https://www.acmicpc.net/problem/1062)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%8B%A4%EC%A7%80%EA%B8%B0%20%EA%B8%B0%EC%B4%88%20%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C/07_%EA%B0%80%EB%A5%B4%EC%B9%A8.py)|🥇골드4|
 |8|[파이프 옮기기 1](https://www.acmicpc.net/problem/17070)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%8B%A4%EC%A7%80%EA%B8%B0%20%EA%B8%B0%EC%B4%88%20%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C/08_%ED%8C%8C%EC%9D%B4%ED%94%84%20%EC%98%AE%EA%B8%B0%EA%B8%B0%201.py)<br>[추가해설](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%8B%A4%EC%A7%80%EA%B8%B0%20%EA%B8%B0%EC%B4%88%20%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C/08_%ED%8C%8C%EC%9D%B4%ED%94%84%20%EC%98%AE%EA%B8%B0%EA%B8%B0%201%20%ED%92%80%EC%9D%B4%EB%B0%A9%EB%B2%95.md)|🥇골드5|
 
+### 📌최고빈출 DFS, BFS 기본문제
+|번호|제목|코드|티어|
+|------|---|---|---|
+|1|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%B5%9C%EA%B3%A0%EB%B9%88%EC%B6%9C%20DFS%2C%20BFS%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C/01_DFS%EC%99%80%20BFS.py)|🥈실버2|
+|2|[전쟁 - 전투](https://www.acmicpc.net/problem/1303)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%B5%9C%EA%B3%A0%EB%B9%88%EC%B6%9C%20DFS%2C%20BFS%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C/02_%EC%A0%84%EC%9F%81%20-%20%EC%A0%84%ED%88%AC.py)|🥈실버1|
+|3|[미로 찾기](https://www.acmicpc.net/problem/2178)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%B5%9C%EA%B3%A0%EB%B9%88%EC%B6%9C%20DFS%2C%20BFS%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C/03_%EB%AF%B8%EB%A1%9C%EC%B0%BE%EA%B8%B0.py)|🥈실버1|
+|4|[음식물 피하기](https://www.acmicpc.net/problem/1743)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%B5%9C%EA%B3%A0%EB%B9%88%EC%B6%9C%20DFS%2C%20BFS%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C/04_%EC%9D%8C%EC%8B%9D%EB%AC%BC%ED%94%BC%ED%95%98%EA%B8%B0.py)|🥈실버1|
+|5|[바이러스](https://www.acmicpc.net/problem/2606)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%B5%9C%EA%B3%A0%EB%B9%88%EC%B6%9C%20DFS%2C%20BFS%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C/05_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.py)|🥈실버3|
+|6|[A→B](https://www.acmicpc.net/problem/16953)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%B5%9C%EA%B3%A0%EB%B9%88%EC%B6%9C%20DFS%2C%20BFS%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C/06_A%E2%86%92B.py)|🥈실버1|
+|7|[숨바꼭질2](https://www.acmicpc.net/problem/12851)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%B5%9C%EA%B3%A0%EB%B9%88%EC%B6%9C%20DFS%2C%20BFS%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C/07_%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%882.py)|🥇골드5|
+|8|[숨바꼭질3](https://www.acmicpc.net/problem/13549)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%B5%9C%EA%B3%A0%EB%B9%88%EC%B6%9C%20DFS%2C%20BFS%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C/08_%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%883.py)|🥇골드5|
+|9|[숨바꼭질4](https://www.acmicpc.net/problem/13913)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%B5%9C%EA%B3%A0%EB%B9%88%EC%B6%9C%20DFS%2C%20BFS%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C/09_%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%884.py)|🥇골드4|
+|10|[이모티콘](https://www.acmicpc.net/problem/14226)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%B5%9C%EA%B3%A0%EB%B9%88%EC%B6%9C%20DFS%2C%20BFS%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C/10_%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98.py)|🥇골드5|
+
+
 ### 📌DP 문제풀이 강훈련 백준 문제 추천
 |번호|제목|코드|티어|
 |------|---|---|---|
@@ -61,3 +76,13 @@
 |2|[점프](https://www.acmicpc.net/problem/1890)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/DP%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4%20%EA%B0%95%ED%9B%88%EB%A0%A8%20%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C/02_%EC%A0%90%ED%94%84.py)|🥈실버2|
 |3|[1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/DP%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4%20%EA%B0%95%ED%9B%88%EB%A0%A8%20%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C/03_1%2C%202%2C%203%20%EB%8D%94%ED%95%98%EA%B8%B0%204.py)|🥈실버1|
 |4|[기타리스트](https://www.acmicpc.net/problem/1495)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/DP%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4%20%EA%B0%95%ED%9B%88%EB%A0%A8%20%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C/04_%EA%B8%B0%ED%83%80%EB%A6%AC%EC%8A%A4%ED%8A%B8.py)<br>[추가설명](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/DP%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4%20%EA%B0%95%ED%9B%88%EB%A0%A8%20%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C/04_%EA%B8%B0%ED%83%80%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%ED%92%80%EC%9D%B4.md)|🥈실버1|
+|5|[크리보드](https://www.acmicpc.net/problem/11058)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/DP%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4%20%EA%B0%95%ED%9B%88%EB%A0%A8%20%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C/05_%ED%81%AC%EB%A6%AC%EB%B3%B4%EB%93%9C.py)|🥇골드5|
+|6|[BOJ거리](https://www.acmicpc.net/problem/12026)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/DP%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4%20%EA%B0%95%ED%9B%88%EB%A0%A8%20%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C/06_BOJ%EA%B1%B0%EB%A6%AC.py)|🥇골드5|
+|7| |||
+|8|[1학년](https://www.acmicpc.net/problem/5557)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/DP%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4%20%EA%B0%95%ED%9B%88%EB%A0%A8%20%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C/08_1%ED%95%99%EB%85%84.py)|🥇골드5|
+
+
+### 📌미분류 (그냥 내가 풀고 싶은 거~🤭)
+|번호|제목|코드|티어|
+|------|---|---|---|
+|1|[종이자르기](https://www.acmicpc.net/problem/2628)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EB%AF%B8%EB%B6%84%EB%A5%98/01_%EC%A2%85%EC%9D%B4%EC%9E%90%EB%A5%B4%EA%B8%B0.py)|🥈실버5|
