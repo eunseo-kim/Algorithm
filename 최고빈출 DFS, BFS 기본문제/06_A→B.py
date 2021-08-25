@@ -1,6 +1,6 @@
 # 언어 : Python
 # 날짜 : 2021.08.24
-# 문제 : BOJ > 미로 찾기 (https://www.acmicpc.net/problem/16953)
+# 문제 : BOJ > A→B(https://www.acmicpc.net/problem/16953)
 # 티어 : 실버 1
 # ======================================================================
 import heapq
