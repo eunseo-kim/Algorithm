@@ -67,7 +67,7 @@
 |8|[숨바꼭질3](https://www.acmicpc.net/problem/13549)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%B5%9C%EA%B3%A0%EB%B9%88%EC%B6%9C%20DFS%2C%20BFS%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C/08_%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%883.py)|🥇골드5|
 |9|[숨바꼭질4](https://www.acmicpc.net/problem/13913)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%B5%9C%EA%B3%A0%EB%B9%88%EC%B6%9C%20DFS%2C%20BFS%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C/09_%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%884.py)|🥇골드4|
 |10|[이모티콘](https://www.acmicpc.net/problem/14226)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%B5%9C%EA%B3%A0%EB%B9%88%EC%B6%9C%20DFS%2C%20BFS%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C/10_%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98.py)|🥇골드5|
-
+|11|[아기상어2](https://www.acmicpc.net/problem/17086)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/%EC%B5%9C%EA%B3%A0%EB%B9%88%EC%B6%9C%20DFS%2C%20BFS%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C/11_%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B42.py)|🥈실버2|
 
 ### 📌DP 문제풀이 강훈련 백준 문제 추천
 |번호|제목|코드|티어|
@@ -80,6 +80,13 @@
 |6|[BOJ거리](https://www.acmicpc.net/problem/12026)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/DP%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4%20%EA%B0%95%ED%9B%88%EB%A0%A8%20%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C/06_BOJ%EA%B1%B0%EB%A6%AC.py)|🥇골드5|
 |7| |||
 |8|[1학년](https://www.acmicpc.net/problem/5557)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/DP%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4%20%EA%B0%95%ED%9B%88%EB%A0%A8%20%EB%B0%B1%EC%A4%80%20%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C/08_1%ED%95%99%EB%85%84.py)|🥇골드5|
+
+### 📌Class 4
+|번호|제목|코드|티어|
+|------|---|---|---|
+|1|[RGB 거리](https://www.acmicpc.net/problem/1149)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/class4/01_RGB%EA%B1%B0%EB%A6%AC.py)|🥈실버1|
+|2|[곱셈](https://www.acmicpc.net/problem/1629)|[풀이](https://github.com/eunseo-kim/BOJ-Algorithm/blob/main/class4/02_%EA%B3%B1%EC%85%88.py)|🥈실버1|
+
 
 
 ### 📌미분류 (그냥 내가 풀고 싶은 거~🤭)
