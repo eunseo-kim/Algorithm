@@ -1,6 +1,6 @@
 # 언어 : Python
 # 날짜 : 2021.08.30
-# 문제 : BOJ > LCS (https://www.acmicpc.net/problem/11053)
+# 문제 : BOJ > 가장 긴 증가하는 부분 수열 (https://www.acmicpc.net/problem/11053)
 # 티어 : 실버 2
 # 분류 : dp
 # 풀이 : dp[i] = [현재 i보다 작은 수까지의 최대 부분 수열] + i번째 수
