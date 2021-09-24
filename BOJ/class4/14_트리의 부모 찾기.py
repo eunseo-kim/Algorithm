@@ -1,6 +1,6 @@
 # 언어 : Python
 # 날짜 : 2021.09.23
-# 문제 : BOJ > 파티 (https://www.acmicpc.net/problem/11725)
+# 문제 : BOJ > 트리의 부모 찾기 (https://www.acmicpc.net/problem/11725)
 # 티어 : 실버 2
 # 문제 해결 팁
 # visited를 사용할 때 [num in visited] 대신 boolean을 사용하자.
