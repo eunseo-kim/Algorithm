@@ -1,15 +1,18 @@
 # 🌱 코딩테스트 대비 문제집 with Baekjoon
 
+## 👉 문제집
+- [**코딩테스트 대비 문제집 with Baekjoon**](https://github.com/tony9402/baekjoon)
+
 ## ✔ 우선순위
 > [**최근 코딩테스트 출제 유형 빈도**](https://github.com/tony9402/baekjoon/blob/main/CodingTest.md)를 참고했다.
 1. 구현
-2. BFS
+2. 그래프(BFS/DFS)
 3. 시뮬레이션
 4. 완전탐색
 5. DP
-6. 문자열
-7. DFS/트리/그래프
-8. 트라이/투포인터/유니온파인드 ...
+6. 문자열/트리
+7. 자료구조/트라이/이분탐색
+8. 투포인터/유니온파인드/그리디 ...
 
 ## ✔ 규칙
 - 우선순위 1부터 차례대로 푼다.
