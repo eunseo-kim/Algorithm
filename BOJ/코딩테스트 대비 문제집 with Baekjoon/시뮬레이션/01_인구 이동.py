@@ -2,80 +2,61 @@
 # 날짜 : 2022.1.28
 # 문제 : BOJ > 인구 이동 (https://www.acmicpc.net/problem/16234)
 # 티어 : 골드 5
-# 시간 : 1시간 30분 (+ 못 풂)
-# ① HOW
-# ② NEW
-# ✔시간복잡도
-# N <= 50 / L <= R <= 100
-# ============================================================================
-
-# 하루 동안 일어나는 일 -------------------------
+# ▷ 하루 동안 일어나는 일
 # 인구수 A[r][c]
 # L <= 인구 차이 <= R 이면 국경선 열림
 # 국경선이 열려서 국경이 연결된 한 묶음 = 연합
-# 각 칸의 인구수는 N빵
-#  ----------------------------------------------
-# 다시 반복 모든 국경선이 다 닫힐때까지 하루 반복
-
-
-import math
+# 연합인 칸의 인구수는 N분의 1
+# ▷ 모든 국경선이 다 닫힐때까지 하루 반복
+# ============================================================================
 
 moves = [(-1, 0), (1, 0), (0, -1), (0, 1)]
 
 
-def find_union(people):
-    union = [[-1 for _ in range(N + 2)] for _ in range(N + 2)]
-    for r in range(1, N + 1):
-        for c in range(1, N + 1):
-            union[r][c] = 0
+def bfs(r, c, visited):
+    queue = [(r, c)]
+    unions = [(r, c)]
+    while queue:
+        row, col = queue.pop(0)
+        for move in moves:
+            new_r, new_c = row + move[0], col + move[1]
+            if A[new_r][new_c] != -1 and not visited[new_r][new_c]:
+                if L <= abs(A[row][col] - A[new_r][new_c]) <= R:
+                    visited[new_r][new_c] = True
+                    unions.append((new_r, new_c))
+                    queue.append((new_r, new_c))
 
-    cnt = 1
-    for r in range(1, N + 1):
-        for c in range(1, N + 1):
-            if union[r][c] == 0:
-                union[r][c] = cnt
-                cnt += 1
+    moved = False
+    if len(unions) > 1:
+        moved = True
+        sum = 0
+        for r, c in unions:
+            sum += A[r][c]
+        average = sum // len(unions)
+        for r, c in unions:
+            A[r][c] = average
 
-            for move in moves:
-                new_r, new_c = r + move[0], c + move[1]
-                if people[new_r][new_c] == -1:
-                    continue
-
-                if L <= abs(people[new_r][new_c] - people[r][c]) <= R:
-                    union[new_r][new_c] = union[r][c]
-                elif union[new_r][new_c] == 0:
-                    union[new_r][new_c] = cnt
-                    cnt += 1
-
-    union_result = dict()
-    for r in range(1, N + 1):
-        for c in range(1, N + 1):
-            key = union[r][c]
-            if key not in union_result:
-                union_result[key] = [1, people[r][c]]
-            else:
-                union_result[key][0] += 1
-                union_result[key][1] += people[r][c]
-
-    for key, value in union_result.items():
-        union_result[key] = [1, math.floor(value[1] / value[0])]
-
-    for key in union_result.keys():
-        for r in range(1, N + 1):
-            for c in range(1, N + 1):
-                if union[r][c] == key:
-                    people[r][c] = union_result[key][1]
-
-    return union_result, people[:]
+    return visited, moved
 
 
 def solution():
-    union, people = find_union(A)
-    days = 0
-    while len(union.keys()) != N * N:
-        union, people = find_union(people[:])
-        days += 1
-    return days
+    day = 0
+    while True:
+        visited = [[False for _ in range(N + 1)] for _ in range(N + 1)]
+        finished = True
+        for row in range(1, N + 1):
+            for col in range(1, N + 1):
+                if not visited[row][col]:
+                    visited[row][col] = True
+                    visited, moved = bfs(row, col, visited)
+                    if moved:
+                        finished = False
+
+        if finished:
+            break
+        day += 1
+
+    return day
 
 
 # 입력 및 실행
