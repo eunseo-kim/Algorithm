@@ -17,49 +17,25 @@ operators_in_priority = [
 
 
 def calculate(expression, priority):
-    stack = expression[:]
-    buffer = []
-
     for p in priority:
-        while stack:
-            e = stack.pop(0)
+        for e in expression:
+            if e == p:
+                idx = expression.index(e)
+                n1 = expression[idx-1]
+                n2 = expression[idx+1]
+                n3 = eval(n1+e+n2)
+                
+                expression = expression[:idx-1] + [str(n3)] + expression[idx+2:]
 
-            if e.isdigit():
-                buffer.append(e)
-            else:
-                if e == p:
-                    n1 = buffer.pop()
-                    n2 = stack.pop(0)
-                    n3 = eval(n1 + p + n2)
-                    buffer.append(str(n3))
-                else:
-                    buffer.append(e)
-        stack = buffer[:]
-        buffer = []
-
-    return abs(int(stack.pop()))
-
-
-def seperate_expression(expression):
-    numbers = re.split("[+*-]", expression)
-    operators = re.findall("[+*-]", expression)
-
-    exp = []
-    for i in range(len(operators)):
-        exp.append(numbers[i])
-        exp.append(operators[i])
-    exp.append(numbers[-1])
-
-    return exp
-
+    return abs(int(expression.pop()))
+    
 
 def solution(expression):
     answer = 0
-
-    exp = seperate_expression(expression)
+    ex = re.split(r"(\D)", expression)
 
     for priority in operators_in_priority:
-        result = calculate(exp, priority)
+        result = calculate(ex, priority)
         answer = max(answer, result)
 
     return answer
