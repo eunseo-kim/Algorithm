@@ -1,46 +1,31 @@
-# 언어 : Python
-# 날짜 : 2022.1.28
-# 문제 : BOJ > 바이러스(https://www.acmicpc.net/problem/2606)
-# 티어 : 실버 3
-# 시간 : 9분
-# ① HOW - BFS
-# ② NEW - X
-# ✔시간복잡도
-# 1 <= N <= 100
-# O(|V|+|E|)
-# ============================================================================
-
 from collections import defaultdict
 
 
 def solution():
-    queue = [1]
+    virus_count = 0
+    arr = [target]
+    visited = set()
 
-    while queue:
-        node = queue.pop(0)
+    while arr:
+        curr = arr.pop()
+        if curr not in visited:
+            visited.add(curr)
+            virus_count += 1
 
-        if not visited[node]:
-            visited[node] = True
+            for e in edges[curr]:
+                if e not in visited:
+                    arr.append(e)
 
-        for neighbor in edges[node]:
-            if not visited[neighbor]:
-                queue.append(neighbor)
-
-    answer = -1
-    for i in range(1, V + 1):
-        if visited[i]:
-            answer += 1
-
-    return answer
+    return virus_count - 1
 
 
-V = int(input())  # N <= 100
-E = int(input())
+N = int(input())
+K = int(input())
+target = 1
 edges = defaultdict(list)
-for _ in range(E):
-    v, w = map(int, input().split())
-    edges[v].append(w)
-    edges[w].append(v)
-
-visited = [False for _ in range(V + 1)]
-print(solution())
+for _ in range(K):
+    a, b = map(int, input().split(" "))
+    edges[a].append(b)
+    edges[b].append(a)
+result = solution()
+print(result)
